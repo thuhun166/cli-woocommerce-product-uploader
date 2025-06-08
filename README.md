@@ -1,0 +1,1 @@
+# cli-woocommerce-product-uploader
